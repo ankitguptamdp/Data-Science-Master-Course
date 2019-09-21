@@ -1,1 +1,1 @@
-The pdf file is still pending.
+Data Science Course Introduction - Completed
