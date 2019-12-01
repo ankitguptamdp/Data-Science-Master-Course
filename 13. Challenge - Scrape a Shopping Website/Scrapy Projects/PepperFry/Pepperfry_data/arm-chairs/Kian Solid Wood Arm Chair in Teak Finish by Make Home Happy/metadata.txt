@@ -1,0 +1,1 @@
+{"Item Title": "Kian Solid Wood Arm Chair in Teak Finish by Make Home Happy", "Description": "", "Item Price": "Rs.10,329", "Savings": "Rs.4,703 (34% Off)", "Details": {"Brand: ": "Make Home Happy", "Dimensions:": "H 32 x W  22.5 x D 21", "Primary Material:": "Teak Wood", "Room Type:": "Living Room", "Height:": "32.0 inches", "Width:": "23.0 inches", "Depth:": "21.0 inches"}}

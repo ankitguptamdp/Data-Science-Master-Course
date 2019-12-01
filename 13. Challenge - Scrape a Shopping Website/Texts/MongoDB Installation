@@ -1,0 +1,9 @@
+1) Install MongoDB - https://docs.mongodb.com/manual/administration/install-community/
+	Make sure you install everything including mongodb compass https://www.mongodb.com/products/compass
+
+2) Create a folder /data/db
+3) Run the mongod.exe once  # sudo service mongod start
+4) Install Pymongo on pycharm
+5) Make sure your pipeline is activated
+6) Write the code in MongoDB
+7) See the saved data in Mongo Compass

@@ -1,0 +1,1 @@
+{"Item Title": "London Arm Chair in Rbw Colour by Stories", "Description": "", "Item Price": "Rs.14,900", "Savings": "Rs.8,850 (40% Off)", "Details": {"Brand: ": "Stories", "Dimensions:": "H 37.8 x W  23.6 x D 22", "Primary Material:": "Mahogany Wood", "Room Type:": "Living Room", "Height:": "38.0 inches", "Width:": "24.0 inches", "Depth:": "22.0 inches"}}
